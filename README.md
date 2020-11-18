@@ -16,7 +16,7 @@ I'm Rakha Asyrofi, I'm from Surabaya, Jawa Timur, Indonesia, i have a bachelor's
 
 - My Research talk about <a href="https://github.com/asyrofist/Brain-Segmentation" target="_blank">Brain Segmentation</a>, 
   <a href="https://github.com/asyrofist/Face-Detection-Using-YOLO" target="_blank">Face Detection</a>, 
-  <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System, and many more</a>.
+  <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System </a>, and many more.
 
 - I'm electronic product and data research enthusiast.
 
