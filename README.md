@@ -32,8 +32,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, Jawa Timur, Indonesia, i h
 
 ### My Technical Posters
 <p>
+  <img src="https://github.com/asyrofist/asyrofist/blob/main/https___cdn.evbuc.com_images_103652584_301149195635_1_original.jpeg" width='200' height='300'/>
   <img src="https://github.com/asyrofist/asyrofist/blob/main/5b14a022-80cc-47b7-90ea-29e9e3cc5b6a.jpeg" width='200' height='200'/>
   <img src="https://github.com/asyrofist/asyrofist/blob/main/aab83e21-94f5-406f-8f3d-c69d8ad0ee3e.jpeg" width='200' height='200'/>
-  <img src="https://github.com/asyrofist/asyrofist/blob/main/https___cdn.evbuc.com_images_103652584_301149195635_1_original.jpeg" width='200' height='300'/>
-  
 </p>
