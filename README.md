@@ -7,7 +7,7 @@ I'm Rakha Asyrofi, I'm from Surabaya, Jawa Timur, Indonesia, i have a bachelor's
 <p>
   <a href="https://twitter.com/asyrfist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/asyrofist/" target="_blank"><img src="https://img.shields.io/badge/ instagram %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="edin.com/in/rakha-asyrofi-3945b589/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rakha-asyrofi-3945b589/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </p>
 
 #### You need to know what i'am :relaxed:
