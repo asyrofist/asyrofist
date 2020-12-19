@@ -12,7 +12,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, Jawa Timur, Indonesia, i h
 
 #### You need to know what i'am :relaxed:
 
-- Currently I'm as Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatika ITS</a> :thumbsup:
+- Currently I'm as Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
 
 - My Research talk about <a href="https://github.com/asyrofist/Brain-Segmentation" target="_blank">Brain Segmentation</a>, 
   <a href="https://github.com/asyrofist/Face-Detection-Using-YOLO" target="_blank">Face Detection</a>,
