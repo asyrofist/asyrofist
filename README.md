@@ -1,6 +1,6 @@
 ## Welcome to my page!
 
-Hello my name is Rakha Asyrofi, I come from Surabaya, Jawa Timur, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
+Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
 
 ### You can contact me:
 
