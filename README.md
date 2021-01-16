@@ -17,6 +17,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 - My Research talk about <a href="https://github.com/asyrofist/Brain-Segmentation" target="_blank">Brain Segmentation</a>, 
   <a href="https://github.com/asyrofist/Face-Detection-Using-YOLO" target="_blank">Face Detection</a>,
   <a href="https://github.com/asyrofist/Simple-Traceability-SRS-Document" target="_blank">Traceability Requirements</a>,
+  <a href="https://github.com/asyrofist/Extraction-Requirement" target="_blank">Extraction Requirements</a>,
   <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System </a>, and many more.
 - I'm electronic and data research enthusiast.
 - I work as Backend Engineer at <a href="https://gdc.co.id/">PT. GDC Multi Sarana</a>.
