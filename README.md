@@ -20,7 +20,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <a href="https://github.com/asyrofist/Extraction-Requirement" target="_blank">Extraction Requirements</a>,
   <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System </a>, and many more.
 - I'm electronic and data research enthusiast.
-- I work as Backend Engineer at <a href="https://gdc.co.id/">PT. GDC Multi Sarana</a>.
+- I work as Backend Engineer at <a href="https://gdc.co.id/">PT. GDC Multi Sarana, that develop gateway P2P and Chatbot</a>.
 - I write content on <a href="https://asyrofist.medium.com/">Medium</a>
 
 ### What i've  learned:point_down:!
@@ -36,4 +36,5 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <img src="https://github.com/asyrofist/asyrofist/blob/main/https___cdn.evbuc.com_images_103652584_301149195635_1_original.jpeg" width='200' height='300'/>
   <img src="https://github.com/asyrofist/asyrofist/blob/main/5b14a022-80cc-47b7-90ea-29e9e3cc5b6a.jpeg" width='200' height='200'/>
   <img src="https://github.com/asyrofist/asyrofist/blob/main/aab83e21-94f5-406f-8f3d-c69d8ad0ee3e.jpeg" width='200' height='200'/>
+  <img src="https://github.com/asyrofist/asyrofist/blob/main/photo6251391660755889061.jpg" width='200' height='200'/>
 </p>
