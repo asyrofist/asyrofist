@@ -20,7 +20,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <a href="https://github.com/asyrofist/Extraction-Requirement" target="_blank">Extraction Requirements</a>,
   <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System </a>, and many more.
 - I'm electronic and data research enthusiast.
-- I work as Backend Engineer at <a href="https://gdc.co.id/">PT. GDC Multi Sarana</a>, that develop many things. such as 
+- I work as Backend Engineer and Quality Assurance at <a href="https://gdc.co.id/">PT. GDC Multi Sarana</a>, that develop many things. such as 
   <a href="https://github.com/asyrofist/web_artakuInternal" target="_blank">Web ArtaKu Internal</a>,
   <a href="https://github.com/asyrofist/web_gdclanding" target="_blank">Web GDC Landing</a>,
   <a href="https://github.com/asyrofist/gtw_artaku_mobile" target="_blank">Gateway ArtaKu Mobile</a>,
