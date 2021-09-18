@@ -25,8 +25,8 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <a href="https://github.com/asyrofist/web_gdclanding" target="_blank">Web GDC Landing</a>,
   <a href="https://github.com/asyrofist/gtw_artaku_mobile" target="_blank">Gateway ArtaKu Mobile</a>,
   <a href="https://github.com/asyrofist/gtw_artaku_web" target="_blank">Gateway ArtaKu Web</a>,
-  <a href="https://github.com/asyrofist/gtw_apu_ppt" target="_blank">Gateway GDC APU PPT</a>, and
-  <a href="https://github.com/asyrofist/gtw_apu_ppt" target="_blank">Artaku Mobile App</a>,
+  <a href="https://github.com/asyrofist/gtw_apu_ppt" target="_blank">Gateway GDC APU PPT</a>, 
+  <a href="https://github.com/asyrofist/gtw_apu_ppt" target="_blank">Artaku Mobile App</a>, and many more
   
 - I write content on <a href="https://asyrofist.medium.com/">Medium</a>
 
