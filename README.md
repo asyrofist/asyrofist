@@ -60,19 +60,14 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <img src="https://github.com/asyrofist/asyrofist/blob/main/photo6251391660755889061.jpg" width='200' height='200'/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist)](https://github.com/anuraghazra/github-readme-stats)
+### Profile
 
-![GitHub metrics](https://metrics.lecoq.io/asyrofist)  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyrofist&" alt="asyrofist"/></p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asyrofist&show_icons=true&count_private=true) 
-
-![Profile views](https://gpvc.arturio.dev/asyrofist)
-
-<div align="center">
-    <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
-    </a>
-</div>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asyrofist&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asyrofist stats" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&theme=buefy&hide_border=true" /></a>
+  <img align="center" src="https://metrics.lecoq.io/asyrofist" />
+  <img align="center" src="https://gpvc.arturio.dev/asyrofist"/>
+  <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/> </a>
+</p>
 
