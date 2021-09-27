@@ -61,16 +61,16 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   
 ### My Technical Posters
 <p>
-  <a href="https://www.eventbrite.com/e/meetup-9-two-day-online-meetup-tickets-100992208414">
+  <a href="https://www.eventbrite.com/e/meetup-9-two-day-online-meetup-tickets-100992208414" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/https___cdn.evbuc.com_images_103652584_301149195635_1_original.jpeg" width='200' height='300' alt="asyrofi_trakteer" /></a>
   
-  <a href="https://www.eventbrite.com/e/meetup-6-machine-learning-using-tensorflowjs-and-jquery-alternatives-tickets-88835897561#">
+  <a href="https://www.eventbrite.com/e/meetup-6-machine-learning-using-tensorflowjs-and-jquery-alternatives-tickets-88835897561#" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/5b14a022-80cc-47b7-90ea-29e9e3cc5b6a.jpeg" width='200' height='200' alt="asyrofi_trakteer" /></a>
 
-  <a href="https://twitter.com/indigospacesub/status/1223130416258772992">
+  <a href="https://twitter.com/indigospacesub/status/1223130416258772992" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/aab83e21-94f5-406f-8f3d-c69d8ad0ee3e.jpeg" width='200' height='200' alt="asyrofi_trakteer" /></a>
 
-  <a href="https://twitter.com/surabayapy/status/1373867396604129286">
+  <a href="https://twitter.com/surabayapy/status/1373867396604129286" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/photo6251391660755889061.jpg" width='200' height='200' alt="asyrofi_trakteer" /></a>
 </p>
 
