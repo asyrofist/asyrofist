@@ -77,7 +77,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 ### Profile
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/asyrofist)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/asyrofist)
 
 <p>
   <a href="https://orcid.org/0000-0002-9071-2196">
