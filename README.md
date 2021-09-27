@@ -5,7 +5,7 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-## Welcome to my page!
+## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
 
