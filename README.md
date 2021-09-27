@@ -76,19 +76,16 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 
 ### Profile
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/asyrofist/asyrofist)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/ssembara/ssembara)
+
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&theme=buefy&hide_border=true" /></a>
-  <img align="center" src="https://metrics.lecoq.io/asyrofist" />
   <a href="https://orcid.org/0000-0002-9071-2196">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/ORCID%20(1).png"  width='200' height='200' alt="asyrofi_orchid" /></a>
   <a href="https://trakteer.id/rakha-asyrofi-rzvko/tip/embed/modal">
   <img align="center" src="https://cdn.trakteer.id/images/embed/trbtn-icon.png"alt="asyrofi_trakteer" /></a>
+  <img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
+  <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
+  </a>
 </p>
-
-<div align="center">
-    <img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
-    <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
-      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
-    </a>
-</div>
-
