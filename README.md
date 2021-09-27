@@ -1,3 +1,10 @@
+![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/asyrofist)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.org/user/asyrofist/)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 ## Welcome to my page!
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
