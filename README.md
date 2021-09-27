@@ -70,9 +70,14 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   
 </p>
 
-<img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
-<img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/> 
+<!-- <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/> 
 <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;"> </a>
+ -->
 
-
+<div align="center">
+    <img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
+    <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
+    </a>
+</div>
 
