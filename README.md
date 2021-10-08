@@ -1,4 +1,4 @@
-![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+![Maintainer](https://img.shields.io/badge/maintainer-asyrofist-blue)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/asyrofist)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.org/user/asyrofist/)
