@@ -9,16 +9,6 @@
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
 
-### You can contact me:
-
-<p>
-  <a href="https://twitter.com/asyrfist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/asyrofist/" target="_blank"><img src="https://img.shields.io/badge/ instagram %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rakha-asyrofi-3945b589/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/asyrofist" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
- </p>
-
 #### You need to know what i'am :relaxed:
 
 - Currently I'm as Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
@@ -84,8 +74,24 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/ORCID%20(1).png"  width='200' height='200' alt="asyrofi_orchid" /></a>
   <a href="https://trakteer.id/rakha-asyrofi-rzvko/tip/embed/modal">
   <img align="center" src="https://cdn.trakteer.id/images/embed/trbtn-icon.png"alt="asyrofi_trakteer" /></a>
-  <img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
-  <a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
-  </a>
+</p>
+
+---
+
+<p align='center'>
+<a href="https://rakha.asyrofi.com/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/asyrfist"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
+<a href="https:/instagram.com/asyrofist/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/rakha-asyrofi-3945b589/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Rakha-Asyrofi"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/researchgate.svg" width="40px" alt="ResearchGate"/></a>
+</p>
+
+<p align='center'>
+<img align= "center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/rogergranada/rogergranada/" alt="Hits" />
+<img align="center" src="https://gpvc.arturio.dev/asyrofist"/>  
+<a href="https://paypal.me/asyrofist" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
+</a>
+
 </p>
