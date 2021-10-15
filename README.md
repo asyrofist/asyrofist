@@ -9,6 +9,8 @@
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
 
+<details><summary>Click here to read more...</summary>
+
 #### You need to know what i'am :relaxed:
 
 - Currently I'm as Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
@@ -62,7 +64,12 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 
   <a href="https://twitter.com/surabayapy/status/1373867396604129286" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/photo6251391660755889061.jpg" width='200' height='200' alt="asyrofi_trakteer" /></a>
-</p>
+</p>  
+  
+</details>
+
+
+
 
 ### Profile
 
