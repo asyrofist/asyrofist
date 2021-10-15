@@ -76,13 +76,6 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 [![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://github.com/asyrofist)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://github.com/asyrofist)
 
-<p>
-  <a href="https://orcid.org/0000-0002-9071-2196">
-  <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/ORCID%20(1).png"  width='200' height='200' alt="asyrofi_orchid" /></a>
-  <a href="https://trakteer.id/rakha-asyrofi-rzvko/tip/embed/modal">
-  <img align="center" src="https://cdn.trakteer.id/images/embed/trbtn-icon.png"alt="asyrofi_trakteer" /></a>
-</p>
-
 ---
 
 <p align='center'>
@@ -92,6 +85,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 <a href="https://linkedin.com/in/rakha-asyrofi-3945b589/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Rakha-Asyrofi"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/researchgate.svg" width="40px" alt="ResearchGate"/></a>
+<a href="https://orcid.org/0000-0002-9071-2196"><img src="https://github.com/asyrofist/asyrofist/blob/main/64px-ORCID_iD.svg.png" width="40px" alt="ResearchGate"/></a>
 </p>
 
 <p align='center'>
