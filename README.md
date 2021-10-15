@@ -81,7 +81,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 <p align='center'>
 <a href="https://rakha.asyrofi.com/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/asyrfist"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/twitter.svg" width="40px" alt="Twitter"/></a>&nbsp;&nbsp;
-<a href="https:/instagram.com/asyrofist/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/asyrofist/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/rakha-asyrofi-3945b589/"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
 <a href="https://www.researchgate.net/profile/Rakha-Asyrofi"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/researchgate.svg" width="40px" alt="ResearchGate"/></a>
