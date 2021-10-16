@@ -1,9 +1,9 @@
-[![Maintainer](https://img.shields.io/badge/maintainer-asyrofist-blue)](https://ponselharian.com/HnlBQR)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://ponselharian.com/HnlBQR)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://ponselharian.com/HnlBQR)
-[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://ponselharian.com/UwJVb)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://ponselharian.com/HnlBQR)
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://ponselharian.com/HnlBQR)
+[![Maintainer](https://img.shields.io/badge/maintainer-asyrofist-blue)](https://tei.ai/XMNpb)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://tei.ai/XMNpb)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://tei.ai/XMNpb)
+[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://tei.ai/RuZN8r)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
