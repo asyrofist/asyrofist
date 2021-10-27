@@ -127,5 +127,12 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 <a href="https://ponselharian.com/2SA" target="_blank" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" align="center"/>
 </a>
+<a href="https://trakteer.id/rakha-asyrofi-rzvko/tip" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-trakteer-blue.svg?style=flat-square" align="center"/>
+</a>
+<a href="https://www.buymeacoffee.com/asyrofist" target="_blank" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Donate-buymecoffee-blue.svg?style=flat-square" align="center"/>
+</a>
+
 
 </p>
