@@ -113,8 +113,11 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 <a href="https://ponselharian.com/YLe"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/instagram.svg" width="40px" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="https://ponselharian.com/5Bljekt0"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/in.svg" width="40px" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://ponselharian.com/JO8ZMfIe"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/scholar.svg" width="40px" alt="Scholar"/></a>&nbsp;&nbsp;
-<a href="https://ponselharian.com/LBhCY"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/researchgate.svg" width="40px" alt="ResearchGate"/></a>
-<a href="https://ponselharian.com/7DfN54u6qbd"><img src="https://github.com/asyrofist/asyrofist/blob/main/64px-ORCID_iD.svg.png" width="40px" alt="ResearchGate"/></a>
+<a href="https://ponselharian.com/LBhCY"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/researchgate.svg" width="40px" alt="ResearchGate"/>
+</a>&nbsp;&nbsp;
+<a href="https://ponselharian.com/7DfN54u6qbd"><img src="https://github.com/asyrofist/asyrofist/blob/main/64px-ORCID_iD.svg.png" width="40px" alt="ResearchGate"/>
+</a>&nbsp;&nbsp;
+<a href="https://ponselharian.com/ZGHNUIG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Youtube_circle.svg/800px-Youtube_circle.svg.png" width="40px" alt="ResearchGate"/></a>
 </p>
 
 <p align='center'>
