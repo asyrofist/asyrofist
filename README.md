@@ -7,13 +7,13 @@
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have a bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya. Currently I am available to work as freelance full stack coder, if you need something
+Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). Currently I am available to work as freelance full stack coder, if you need something
 
 <details><summary>Click here to read more...</summary>
 
 #### You need to know what i'am :relaxed:
 
-- Currently I'm as Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
+- Currently I've been Postgraduated Student at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
 
 - My Research talk about <a href="https://ponselharian.com/tMcaI" target="_blank">Brain Segmentation</a>, 
   <a href="https://ponselharian.com/8iI4mK5EW8E" target="_blank">Face Detection</a>,
