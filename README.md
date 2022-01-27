@@ -13,7 +13,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 
 #### You need to know what i'am :relaxed:
 
-- Currently I've been graduate from Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
+- Currently I'm waiting for the graduation process at ITS, as a Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
 
 - My Research talk about <a href="https://ponselharian.com/tMcaI" target="_blank">Brain Segmentation</a>, 
   <a href="https://ponselharian.com/8iI4mK5EW8E" target="_blank">Face Detection</a>,
