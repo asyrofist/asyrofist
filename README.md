@@ -7,7 +7,7 @@
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). Currently I am available to work as freelance full stack coder, if you need something
+Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). Currently I am available to work as freelance full stack coder, if you need something
 
 <details><summary>Click here to read more...</summary>
 
