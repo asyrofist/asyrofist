@@ -5,10 +5,12 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
-<p align="center">
-  <img src="https://github.com/asyrofist/asyrofist/blob/main/asyrofi2.png" height="350"/>
+![](https://github.com/asyrofist/asyrofist/blob/main/header.png)
+
+<!-- <p align="center">
+  <img src="https://github.com/asyrofist/asyrofist/blob/main/header.png" height="350"/>
 </p>
-  
+   -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
