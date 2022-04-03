@@ -6,9 +6,6 @@
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
@@ -136,7 +133,7 @@ I have done many things so many things using several platform. If you want to kn
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asyrofist&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asyrofist&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asyrofist&theme=tokyonight&utcOffset=8)
-
+  
 ### :trophy: Git profile Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
@@ -149,6 +146,10 @@ I have done many things so many things using several platform. If you want to kn
 
 ## Medium Update:
 [![Asyrofi Medium](https://github-readme-medium.vercel.app/?username=asyrofist&limit=2&bg=black&text=white)](https://medium.com/@asyrofist)  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
   
 </details>
 
