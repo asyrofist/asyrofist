@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Expert+Data+and+Research+Engineer..!&color=99b3ff&size=22&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Expert+RnD+Data+Engineer...&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -25,6 +25,8 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
 <details><summary>Click here to read more...</summary>
   
 #### You need to know what i'am :relaxed:
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
   
 - Currently I've graduate as a Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> and Bachelor Applied Science at <a href="https://digilib.pens.ac.id/detail.php?id=7195" target="_blank">Electronics PENS</a> :thumbsup:
 
