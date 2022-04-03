@@ -137,9 +137,15 @@ I have done many things so many things using several platform. If you want to kn
   
 ### :trophy: Git profile Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
-<!--START_SECTION:waka-->
+   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> 
+</a>
 
+  
+<!--START_SECTION:waka-->
+  
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2027%20mins-blue)  
+📊 **This Week I Spent My Time On** 
+  
 ```text
 Markdown   6 mins          ██████████████▓░░░░░░░░░░   58.58 %
 Ruby       4 mins          ██████████▒░░░░░░░░░░░░░░   41.42 %
