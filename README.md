@@ -145,8 +145,8 @@ I have done many things so many things using several platform. If you want to kn
 
   
 <div align="center">
-  <a href="https://github.com/FahimFBA/github-readme-twitter">
-    <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=IsratIJK&layout=wide&show_reply=off&show_retweet=off" />
+  <a href="https://github.com/asyrofist/github-readme-twitter">
+    <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=asyrfist&layout=wide&show_reply=on&show_retweet=on" />
   </a>
   <a href="https://open.spotify.com/show/0HcYR1xKmCnyFDvvpFrNTN">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
