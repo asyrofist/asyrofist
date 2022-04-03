@@ -142,10 +142,7 @@ I have done many things so many things using several platform. If you want to kn
 
   
 <!--START_SECTION:waka-->
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C762%20hrs%2027%20mins-blue)  
-📊 **This Week I Spent My Time On** 
-  
+
 ```text
 Markdown   6 mins          ██████████████▓░░░░░░░░░░   58.58 %
 Ruby       4 mins          ██████████▒░░░░░░░░░░░░░░   41.42 %
