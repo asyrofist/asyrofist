@@ -139,6 +139,12 @@ I have done many things so many things using several platform. If you want to kn
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
 <!--START_SECTION:waka-->
+
+```text
+Markdown   6 mins          ██████████████▓░░░░░░░░░░   58.58 %
+Ruby       4 mins          ██████████▒░░░░░░░░░░░░░░   41.42 %
+```
+
 <!--END_SECTION:waka-->
   
 </details>
