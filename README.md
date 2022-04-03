@@ -131,17 +131,23 @@ I have done many things so many things using several platform. If you want to kn
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asyrofist&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asyrofist&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asyrofist&theme=tokyonight&utcOffset=8)
-### Developer Quotes:
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### :trophy: Git profile Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
+  
+### Developer Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
   
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
 
+  
 <div align="center">
+  <a href="https://github.com/FahimFBA/github-readme-twitter">
+    <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=IsratIJK&layout=wide&show_reply=off&show_retweet=off" />
+  </a>
   <a href="https://open.spotify.com/show/0HcYR1xKmCnyFDvvpFrNTN">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
