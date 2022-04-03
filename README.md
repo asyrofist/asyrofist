@@ -138,7 +138,9 @@ I have done many things so many things using several platform. If you want to kn
   
 ### Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-  
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)  
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
