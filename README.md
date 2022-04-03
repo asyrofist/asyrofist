@@ -5,30 +5,28 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
-[![wakatime](https://wakatime.com/badge/user/f8e39645-6002-4421-baa0-3a713429f510.svg?style=social)](https://wakatime.com/@f8e39645-6002-4421-baa0-3a713429f510)
-[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/asyrofist?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/asyrofist?tab=repositories&q=&type=&language=&sort=stargazers)
-[<img alt="GitHub followers" src="https://img.shields.io/github/followers/asyrofist?&logoColor=red&style=social">](https://github.com/asyrofist?tab=followers)
-[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/asyrofist/TranslatorSelenium/network/members)
-
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Research+Data+and+Research+Student!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). Currently I am available to work as freelance full stack coder, if you need something
+Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now, I'm waiting for my enrollment as Doctoral Student in Kumamoto University. I have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). 
 
 <details><summary>Click here to read more...</summary>
-
+  
 #### You need to know what i'am :relaxed:
+  
+![Hey there, I'm Rakha Asyrofi, M.Kom. I'm a fullstack Engineer, Data and Electronic enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
-- Currently I've graduate as a Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> :thumbsup:
+
+- Currently I've graduate as a Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> and Bachelor Applied Science at <a href="https://digilib.pens.ac.id/detail.php?id=7195" target="_blank">Electronics PENS</a> :thumbsup:
 
 - My Research talk about <a href="https://ponselharian.com/tMcaI" target="_blank">Brain Segmentation</a>, 
   <a href="https://ponselharian.com/8iI4mK5EW8E" target="_blank">Face Detection</a>,
@@ -120,6 +118,17 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   
 </details>
 
+I have done many things so many things using several platform. If you want to know more you should check out this details portofolio. Currently I am available to work as freelance full stack coder, if you need something..
+
+<details><summary>Click here to know more...</summary>
+
+#### You need to know what i've done :relaxed:
+[![wakatime](https://wakatime.com/badge/user/f8e39645-6002-4421-baa0-3a713429f510.svg?style=social)](https://wakatime.com/@f8e39645-6002-4421-baa0-3a713429f510)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/asyrofist?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/asyrofist?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/asyrofist?&logoColor=red&style=social">](https://github.com/asyrofist?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/asyrofist/TranslatorSelenium/network/members)
+  
+  
 ### Github Stats Profile
 [![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://ponselharian.com/HnlBQR)
 ### Language and Tools
@@ -138,8 +147,10 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   </a>
 </div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+</details>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align='center'>
 <a href="https://ponselharian.com/nGjC81"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
