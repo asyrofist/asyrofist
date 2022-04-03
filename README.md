@@ -23,9 +23,6 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
   
 #### You need to know what i'am :relaxed:
   
-![Hey there, I'm Rakha Asyrofi, M.Kom. I'm a fullstack Engineer, Data and Electronic enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
-
 - Currently I've graduate as a Master's Student Degree at <a href="https://scholar.google.com/citations?user=WN9T5UUAAAAJ&hl=id&oi=ao" target="_blank">Informatics ITS</a> and Bachelor Applied Science at <a href="https://digilib.pens.ac.id/detail.php?id=7195" target="_blank">Electronics PENS</a> :thumbsup:
 
 - My Research talk about <a href="https://ponselharian.com/tMcaI" target="_blank">Brain Segmentation</a>, 
@@ -129,16 +126,19 @@ I have done many things so many things using several platform. If you want to kn
 [<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/asyrofist/TranslatorSelenium/network/members)
   
   
-### Github Stats Profile
-[![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://ponselharian.com/HnlBQR)
-### Language and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://ponselharian.com/HnlBQR)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asyrofist&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asyrofist&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asyrofist&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asyrofist&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asyrofist&theme=tokyonight&utcOffset=8)
 ### Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 ### :trophy: Git profile Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asyrofist&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a>
+  
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
 
 <div align="center">
