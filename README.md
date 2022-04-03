@@ -139,22 +139,8 @@ I have done many things so many things using several platform. If you want to kn
 ### Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)  
-<!--START_SECTION:waka-->
-  
-<!--END_SECTION:waka-->
-
-  
-<div align="center">
-  <a href="https://github.com/asyrofist/github-readme-twitter">
-    <img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=asyrfist&layout=wide&show_reply=on&show_retweet=on" />
-  </a>
-  <a href="https://open.spotify.com/show/0HcYR1xKmCnyFDvvpFrNTN">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
+## Twitter Update:
+[![Twitter Card](https://github-readme-twitter.gazf.vercel.app/api?id=asyrfist&layout=wide&show_reply=on&show_retweet=on)](https://twitter.com/asyrfist) 
 
 </details>
 
@@ -192,3 +178,9 @@ I have done many things so many things using several platform. If you want to kn
 
 
 </p>
+
+<div align="center">
+  <a href="https://open.spotify.com/show/0HcYR1xKmCnyFDvvpFrNTN">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
