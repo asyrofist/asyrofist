@@ -140,6 +140,7 @@ I have done many things so many things using several platform. If you want to kn
    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> 
 </a>
 
+### Waka Readme
   
 <!--START_SECTION:waka-->
 
@@ -149,6 +150,9 @@ Ruby       4 mins          ██████████▒░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### Wakatime stats Weekly
+[![asyrofist's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asyrofist)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
