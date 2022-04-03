@@ -5,6 +5,7 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -13,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Research+Data+and+Research+Student!&color=99b3ff&size=22&duration=8000"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Expert+Data+and+Research+Engineer..!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -144,6 +145,13 @@ I have done many things so many things using several platform. If you want to kn
 ## Twitter Update:
 [![Twitter Card](https://github-readme-twitter.gazf.vercel.app/api?id=asyrfist&layout=wide&show_reply=on&show_retweet=on)](https://twitter.com/asyrfist) 
 
+## Medium Update:
+<p>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/3" alt="Recent Article 2">
+</p>  
+  
 </details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
