@@ -5,6 +5,10 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
+</p>  
+
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). Currently I am available to work as freelance full stack coder, if you need something
@@ -19,17 +23,25 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
   <a href="https://ponselharian.com/8iI4mK5EW8E" target="_blank">Face Detection</a>,
   <a href="https://ponselharian.com/Jy2ncVRx" target="_blank">Traceability Requirements</a>,
   <a href="https://ponselharian.com/9Eq9zlrI" target="_blank">Extraction Requirements</a>,
-  <a href="http://juti.if.its.ac.id/index.php/juti/article/view/937" target="_blank">Supply Management System </a>, and many more.
+  <a href="https://ponselharian.com/ixHAY5Z" target="_blank">Supply Management System </a>,
+  <a href="https://ponselharian.com/l5XKnt" target="_blank">Interdependency Requirement Extraction </a>,
+  <a href="https://ponselharian.com/SZLplMyfPt" target="_blank">Bluetooth Low Energy </a>, and many more.
 - I'm electronic and data research enthusiast.
-- I work as Backend Engineer and Quality Assurance at <a href="https://www.gdcpay.id/">PT. GDC Multi Sarana</a>, that develop many things. such as 
+- I was working as Technical Sales Engineer and Health Safety Officer at <a href="https://www.ptkeivan.co.id/">PT. Keivan Bros</a> who sales everything at many places, such as
+  <a href="https://ponselharian.com/aKrBA6L5Igy" target="_blank">PJB UBJOM Rembang</a>,
+  <a href="https://ponselharian.com/uhcFlFt49Lq" target="_blank">PJB UP Gresik</a>,
+  <a href="https://ponselharian.com/GNzj" target="_blank">PJB UBJOM Pacitan</a>,
+  <a href="https://ponselharian.com/HRojTw" target="_blank">PJB UBJOM Tanjung Awar-Awar</a>,
+  <a href="https://ponselharian.com/zqNGKqJDnwZQ" target="_blank">Petrokimia Gresik</a>, and many more
+- I was working as Backend Engineer and Quality Assurance at <a href="https://ponselharian.com/2zvD">PT. GDC Multi Sarana</a>, who develop many things. such as 
   <a href="https://ponselharian.com/5NbT" target="_blank">Web ArtaKu Internal</a>,
   <a href="https://ponselharian.com/OBHcPTz6e" target="_blank">Web GDC Landing</a>,
   <a href="https://ponselharian.com/gnCx82tSeeeu" target="_blank">Gateway ArtaKu Mobile</a>,
   <a href="https://ponselharian.com/cGcOpriRXI" target="_blank">Gateway ArtaKu Web</a>,
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Gateway GDC APU PPT</a>, 
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Artaku Mobile App</a>, and many more
-  
-- I write content on <a href="https://ponselharian.com/mznqlzX">Medium</a>
+- Now I work as Fulltack Engineer at  <a href="https://triv.co.id/en">PT. Tiga Inti Utama</a>, who develop using <a href="https://ponselharian.com/l7eR" target="_blank">Ruby on Rails as Automate Testing</a>
+- I write content on <a href="https://ponselharian.com/mznqlzX">Medium</a> and <a href="https://ponselharian.com/9bnyrdHxTm">Revue</a>
 
 ### What i've  learned:point_down:!
 
@@ -100,10 +112,12 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 
 
 
-### Profile
-
+### Github Stats Profile, Language and Tools
 [![Stats](https://github-readme-stats.vercel.app/api?username=asyrofist&theme=tokyonight&show_icons=true&line_height=27)](https://ponselharian.com/HnlBQR)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://ponselharian.com/HnlBQR)
+
+### Developer Quotes:
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
