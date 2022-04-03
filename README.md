@@ -148,14 +148,10 @@ I have done many things so many things using several platform. If you want to kn
 [![Twitter Card](https://github-readme-twitter.gazf.vercel.app/api?id=asyrfist&layout=wide&show_reply=on&show_retweet=on)](https://twitter.com/asyrfist) 
 
 ## Medium Update:
-[![Medium Card](https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/0)](https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/0) 
-<p>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@asyrofist/3" alt="Recent Article 2">
-</p>  
+[![Asyrofi Medium](https://github-readme-medium.vercel.app/?username=asyrofist&limit=2&bg=black&text=white)](https://medium.com/@asyrofist)  
   
 </details>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
