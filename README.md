@@ -5,9 +5,20 @@
 [![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://tei.ai/XMNpb)
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://tei.ai/XMNpb)
 
+[![wakatime](https://wakatime.com/badge/user/f8e39645-6002-4421-baa0-3a713429f510.svg?style=social)](https://wakatime.com/@f8e39645-6002-4421-baa0-3a713429f510)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/asyrofist?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/asyrofist?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/asyrofist?&logoColor=red&style=social">](https://github.com/asyrofist?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/asyrofist/TranslatorSelenium/network/members)
+
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img alt="GIF" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+Profile!&color=99b3ff&size=22&duration=8000"/></a>
 </p>  
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -115,8 +126,20 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, i ha
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asyrofist&layout=compact&hide=blade,css,less,html&theme=tokyonight)](https://ponselharian.com/HnlBQR)
 ### Developer Quotes:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+### :trophy: Git profile Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asyrofist&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
 
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  <a href="https://open.spotify.com/show/0HcYR1xKmCnyFDvvpFrNTN">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p align='center'>
 <a href="https://ponselharian.com/nGjC81"><img src="https://raw.githubusercontent.com/rogergranada/rogergranada/master/homepage.svg" width="40px" alt="Personal Blog"/></a>&nbsp;&nbsp;
