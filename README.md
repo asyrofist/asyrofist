@@ -49,7 +49,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
   <a href="https://ponselharian.com/cGcOpriRXI" target="_blank">Gateway ArtaKu Web</a>,
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Gateway GDC APU PPT</a>, 
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Artaku Mobile App</a>, and many more
-- Now I work as Lecturer & Fulltack Engineer at  <a href="https://triv.co.id/en">Universitas Hang Tuah</a>, who maintain <a href="hangtuah.siakadcloud.com" target="_blank">Sistem Informasi Akademik</a>
+- Now I work as Lecturer & Fulltack Engineer at  <a href="http://hangtuah.ac.id/">Universitas Hang Tuah</a>, who maintain <a href="hangtuah.siakadcloud.com" target="_blank">Sistem Informasi Akademik</a>
 - I write content on <a href="https://ponselharian.com/mznqlzX">Medium</a> and <a href="https://ponselharian.com/9bnyrdHxTm">Revue</a>
 
 ### What i've  learned:point_down:!
