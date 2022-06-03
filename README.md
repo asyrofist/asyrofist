@@ -49,7 +49,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
   <a href="https://ponselharian.com/cGcOpriRXI" target="_blank">Gateway ArtaKu Web</a>,
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Gateway GDC APU PPT</a>, 
   <a href="https://ponselharian.com/aX4ILe" target="_blank">Artaku Mobile App</a>, and many more
-- Now I work as Fulltack Engineer at  <a href="https://triv.co.id/en">PT. Tiga Inti Utama</a>, who develop using <a href="https://ponselharian.com/l7eR" target="_blank">Ruby on Rails as Automate Testing</a>
+- Now I work as Lecturer & Fulltack Engineer at  <a href="https://triv.co.id/en">Universitas Hang Tuah</a>, who maintain <a href="hangtuah.siakadcloud.com" target="_blank">Sistem Informasi Akademik</a>
 - I write content on <a href="https://ponselharian.com/mznqlzX">Medium</a> and <a href="https://ponselharian.com/9bnyrdHxTm">Revue</a>
 
 ### What i've  learned:point_down:!
@@ -139,17 +139,6 @@ I have done many things so many things using several platform. If you want to kn
 <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=asyrofist&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> 
 </a>
-
-### Waka Readme
-  
-<!--START_SECTION:waka-->
-
-```text
-Markdown   6 mins          ██████████████▓░░░░░░░░░░   58.58 %
-Ruby       4 mins          ██████████▒░░░░░░░░░░░░░░   41.42 %
-```
-
-<!--END_SECTION:waka-->
 
 ### Wakatime stats Weekly
 [![asyrofist's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asyrofist)](https://github.com/anuraghazra/github-readme-stats)
