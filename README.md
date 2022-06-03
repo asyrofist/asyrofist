@@ -13,7 +13,7 @@
    -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Welcome to my Page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome to my Page!
 
 Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now, I'm waiting for my enrollment as Doctoral Student in Kumamoto University. I have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). 
 
