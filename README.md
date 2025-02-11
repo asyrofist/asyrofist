@@ -15,7 +15,7 @@
 
 ## Welcome to my Page!
 
-Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now, I'm waiting for my enrollment as Doctoral Student in National Central University (NCU). I have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). 
+Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now, I'm now as as Doctoral Student in Insitut Teknologi Sepuluh Nopember (ITS) at Information System Department. I have master's degree in Institut Teknologi Sepuluh Nopember (ITS) and bachelor's applied science degree in Electronic Engineer from Politeknik Elektronika Negeri Surabaya (PENS). 
 
 <details><summary>Click here to read more...</summary>
   
