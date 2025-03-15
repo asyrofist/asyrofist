@@ -116,7 +116,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
   <a href="https://ponselharian.com/Izczz" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/photo6251391660755889061.jpg" width='200' height='200' alt="asyrofi_trakteer" /></a>
 
-  <a href="https://ponselharian.com/Izczz](https://www.instagram.com/p/DHH5HB3zOQ7/" target="_blank">
+  <a href="https://www.instagram.com/p/DHH5HB3zOQ7/" target="_blank">
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/WhatsApp Image 2025-03-14 at 10.28.36.jpeg" width='200' height='250' alt="asyrofi_trakteer" /></a>
 </p>  
   
