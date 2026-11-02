@@ -120,7 +120,7 @@ Hello my name is Rakha Asyrofi, I come from Surabaya, East Java, Indonesia, Now,
   <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/WhatsApp Image 2025-03-14 at 10.28.36.jpeg" width='200' height='250' alt="asyrofi_trakteer" /></a>
 
   <a href="https://www.sindotechmedia.com/" target="_blank">
-  <img align="center" src="[https://github.com/asyrofist/asyrofist/blob/main/WhatsApp Image 2025-03-14 at 10.28.36.jpeg](https://github.com/asyrofist/asyrofist/blob/main/1793588510862.jpg)" width='200' height='250' alt="asyrofi_trakteer" /></a>  
+  <img align="center" src="https://github.com/asyrofist/asyrofist/blob/main/1793588510862.jpg" width='200' height='250' alt="asyrofi_trakteer" /></a>  
 </p>  
   
 </details>
